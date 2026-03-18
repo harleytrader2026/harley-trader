@@ -1,0 +1,7 @@
+
+streamlit
+solana
+solders
+requests
+pandas
+
